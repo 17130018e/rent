@@ -18,6 +18,6 @@ public class Test6 {
 		/**
 		 * Сравнение результата и ожидаемого значения
 		 */
-		assertEquals(String.valueOf(a.getitog()), "8810.0");
+		assertEquals(String.valueOf(a.getitog()), "18810.0");
 	}
 }
